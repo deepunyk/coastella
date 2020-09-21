@@ -3,19 +3,13 @@
 
 Hyper local mobile application. Online platform for local shops to sell their goods. Users can place orders, set pickup options. Local shops can view orders and manage them.
 
-### Gallery
-
-<p>
+### Screenshots
   
 #### Order list
 <img src="screenshots/7.jpeg" height="500">
-  
+
 #### Splash screen
 <img src="screenshots/6.jpeg" height="500">
-
-</p>
-
-<p>
   
 #### List of stores
 <img src="screenshots/5.jpeg" height="500">
@@ -23,10 +17,6 @@ Hyper local mobile application. Online platform for local shops to sell their go
 #### Store details
 <img src="screenshots/4.jpeg" height="500">
 
-</p>
-
-<p>
-  
 #### Select how you want to place order
 <img src="screenshots/3.jpeg" height="500">
 
@@ -35,5 +25,3 @@ Hyper local mobile application. Online platform for local shops to sell their go
 
 #### Place order by typing
 <img src="screenshots/2.jpeg" height="500">
-
-</p>
